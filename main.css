@@ -13,6 +13,7 @@ h1 {
 	color: rgb(46,105,163);
 	float: right;
 	margin-right: 50px;
+	background-color: #EBEBEB;
 }
 
 nav li {
@@ -23,5 +24,6 @@ nav li {
  	padding: 0 10px;
  	float: left;
  	margin-top: 50px;
- 	margin-left: 50px;
+ 	margin-left: 100px;
+ 	background-color: #EBEBEB;
 }
