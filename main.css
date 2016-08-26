@@ -3,42 +3,17 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-color: #F2E8E0;
+	background-color: #C0CEE4;
 }
 
 h1 {
 	font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
+  font-family: Corbel, 'Palatino Linotype', serif;
 	color: rgb(46,105,163);
 }
 
-#footer{
-  font-size: 0.75rem;
-}
-
-h2 {
-	font-size: 56px;
-}
-
-
-.hero {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	color: #ffffff;
-  padding: 250px 0;
-	margin: 30px;
-   background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
-  background-size: cover;
-}
-
-
-p {
-  font-size: 2rem;
-
-}
-
-.hero a {
-	color: #00FFAA;
-	font-size: 24px;
-	text-decoration: none;
-  font-size: 1.25em;
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
 }
