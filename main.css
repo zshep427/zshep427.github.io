@@ -12,6 +12,7 @@ h1 {
  	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	color: rgb(46,105,163);
 	float: right;
+	margin-right: 50px;
 }
 
 nav li {
@@ -20,4 +21,6 @@ nav li {
  	margin: 0;
  	padding: 0 10px;
  	float: left;
+ 	margin-top: 10px;
+ 	margin-left: 50px;
 }
