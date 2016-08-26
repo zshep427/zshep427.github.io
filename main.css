@@ -27,3 +27,8 @@ nav li {
  	margin-left: 100px;
  	background-color: #EBEBEB;
 }
+
+.mainColor {
+	background-color: #EBEBEB;
+	padding: 0 90px;
+}
