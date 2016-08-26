@@ -3,17 +3,21 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-color: #C0CEE4;
+	background-color: #EBEBEB;
 }
 
 h1 {
 	font-size: 32px;
-  font-family: Corbel, 'Palatino Linotype', serif;
+	font-variant: small-caps;
+ 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	color: rgb(46,105,163);
+	float: right;
 }
 
 nav li {
-  display: inline;
-  margin: 0;
-  padding: 0 10px;
+	font: "Trebuchet MS", Helvetica, sans-serif;
+  	display: inline;
+ 	margin: 0;
+ 	padding: 0 10px;
+ 	float: left;
 }
