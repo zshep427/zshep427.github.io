@@ -45,9 +45,21 @@ body {
 
 .uncharted:hover:before{
 	background: rgba(255,255,255,.5);
-	content:"";
+	content:"Uncharted 4: A Thief's End";
 	display: block;
 	height: 100%;
+}
+
+.h-center {
+    text-align: center;
+}
+
+.v-center span {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
 .uncharted4Text{ 
