@@ -27,14 +27,21 @@ nav li {
  	background-color: #EBEBEB;
 }
 
+body {
+	background-color: #EBEBEB;
+}
+
 .mainColor {
 	background-color: #EBEBEB;
 	padding: 0 90px;
 }
 
 .uncharted:hover:before{
-			background: rgba(244,54,60,.5);
-			content: 'blah blah blah';
+			background: rgba(255,255,255,.5);
+			content: "Uncharted 4: A Thief's End";
+			font-size: 50px;
+			font-color: red;
+			align-content: center;
 			display: block;
 			height: 100%;
 		}
@@ -43,5 +50,22 @@ nav li {
 	background: url(http://images.techtimes.com/data/images/full/236964/uncharted-4-a-thiefs-end.jpg) no-repeat;
 	background-size: cover;
 	height: 400px;
+	}	
+
+.wordplay:hover:before{
+			background: rgba(255,255,255,.5);
+			content: "Uncharted 4: A Thief's End";
+			font-size: 50px;
+			font-color: red;
+			align-content: center;
+			display: block;
+			height: 100%;
+		}
+
+.wordplay{
+	background: url(http://www.warm-glass.co.uk/images/products/block-letters-decal-XqUA.jpg) no-repeat;
+	background-size: cover;
+	height: 400px;
 	}			
+
 			
