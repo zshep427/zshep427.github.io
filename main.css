@@ -20,7 +20,7 @@ ul {
 	padding-left: 100px;
 }
 
-nav li a{
+nav li {
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	font-variant: small-caps;
 	font-color: rgb(135,0,0);
@@ -38,11 +38,11 @@ body {
 }
 
 .mainColor h1{
-	color: rgb(135,0,0);
+	color: rgb(85,0,0);
 }
 
-.mainColor nav li{
-	color: rgb(135,0,0);
+.mainColor nav li a{
+	color: rgb(85,0,0);
 }
 
 
@@ -86,7 +86,7 @@ body {
 	font-variant: small-caps;
 }
 
-.aboutMessage{
+.mainColor.aboutMessage{
 	justify-content: left;
 	font: "Trebuchet MS", Helvetica, sans-serif;
 
