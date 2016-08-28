@@ -28,7 +28,7 @@ nav li {
 }
 
 body {
-	background-color: #EBEBEB;
+	background-color: #EBEBEB !important;
 }
 
 .mainColor {
