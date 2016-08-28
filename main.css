@@ -20,7 +20,7 @@ ul {
 	padding-left: 100px;
 }
 
-nav li {
+nav li a{
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	font-variant: small-caps;
 	font-color: rgb(135,0,0);
