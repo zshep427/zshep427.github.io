@@ -87,7 +87,7 @@ body {
 }
 
 .mainColor.aboutMessage{
-	justify-content: left;
+	text-align: left;
 	font: "Trebuchet MS", Helvetica, sans-serif;
 
 }
