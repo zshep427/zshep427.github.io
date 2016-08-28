@@ -50,11 +50,10 @@ body {
 	height: 100%;
 
 	align-content: center;
-	border-top: 10px;
+	content.transform: translate(0, -50%)
     left: 0;
     right: 0;
     top: 50%;
-    transform: translate(0, -50%);
     text-align: center;
 }
 
