@@ -92,6 +92,12 @@ body {
 
 }
 
+.about_photo{
+    background: url(Photos/aboutPhoto.jpg);
+    background-size: cover;
+    height: 200px;
+}
+
 
 li
 {
