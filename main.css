@@ -37,6 +37,15 @@ body {
 	background-color: #EBEBEB !important;
 }
 
+.mainColor h1{
+	color: rgb(135,0,0);
+}
+
+.mainColor nav li{
+	color: rgb(135,0,0);
+}
+
+
 .mainColor {
 	background-color: #EBEBEB !important;
 	padding: 0 90px;
@@ -75,6 +84,12 @@ body {
 	line-height: 400px;
 	font-size: 30px;
 	font-variant: small-caps;
+}
+
+.aboutMessage{
+	justify-content: left;
+	font: "Trebuchet MS", Helvetica, sans-serif;
+
 }
 
 
