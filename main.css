@@ -27,9 +27,10 @@ nav li {
   	display: inline;
  	margin: 0;
  	padding: 0 10px;
+ 	padding-left: 10px;
  	float: left;
  	margin-top: 50px; 	
- 	background-color: #EBEBEB;
+ 	background-color: #EBEBEB !important;
 }
 
 body {
@@ -37,12 +38,12 @@ body {
 }
 
 .mainColor {
-	background-color: #EBEBEB;
+	background-color: #EBEBEB !important;
 	padding: 0 90px;
 }
 
 .mainColor .jumbotron{
-	background-color: #EBEBEB;
+	background-color: #EBEBEB !important;
 }
 
 
