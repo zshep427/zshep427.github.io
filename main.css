@@ -16,6 +16,10 @@ h1 {
 	background-color: #EBEBEB;
 }
 
+ul {
+	padding-left: 100px;
+}
+
 nav li {
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	font-variant: small-caps;
@@ -24,8 +28,7 @@ nav li {
  	margin: 0;
  	padding: 0 10px;
  	float: left;
- 	margin-top: 50px;
- 	margin-left: 100px;
+ 	margin-top: 50px; 	
  	background-color: #EBEBEB;
 }
 
