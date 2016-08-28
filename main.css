@@ -47,14 +47,7 @@ body {
 	background: rgba(255,255,255,.5);
 	content:"Uncharted 4: A Thief's End";
 	display: block;
-	height: 100%;
-
-	align-content: center;
-	content.transform: translate(0, -50%)
-    left: 0;
-    right: 0;
-    top: 50%;
-    text-align: center;
+	line-height: 400px;
 }
 
 
