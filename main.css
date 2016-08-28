@@ -36,16 +36,6 @@ body {
 	padding: 0 90px;
 }
 
-.uncharted:hover:before{
-			background: rgba(255,255,255,.5);
-			content: "Uncharted 4: A Thief's End";
-			font-size: 50px;
-			font-color: red;
-			vertical-align: middle;
-			align-content: center;
-			display: block;
-			height: 100%;
-		}
 
 .uncharted{
 	background: url(http://images.techtimes.com/data/images/full/236964/uncharted-4-a-thiefs-end.jpg) no-repeat;
@@ -53,72 +43,24 @@ body {
 	height: 400px;
 	}	
 
-.wordplay:hover:before{
+.uncharted:hover:before{
 			background: rgba(255,255,255,.5);
-			content: "Uncharted 4: A Thief's End";
-			font-size: 50px;
-			vertical-align: middle;
-			font-color: red;
-			align-content: center;
 			display: block;
 			height: 100%;
 		}
 
-.wordplay{
-	background: url(http://www.warm-glass.co.uk/images/products/block-letters-decal-XqUA.jpg) no-repeat;
-	background-size: cover;
-	height: 400px;
-	}			
-
-.uncharted4{
-	position:relative;
-	background-color: #EBEBEB !important;
-}
-
-.u4{ 
+.uncharted4Text{ 
 	position:absolute; 
 	top:50%; 
 	left:50%; 
 	width:100%; 
 	display:none; 
 	z-index:10;
+	
+}
+
+a:hover .uncharted4Text{
+	display:block;
 	font-color: red;
 	font-size: 40px;
 }
-
-a:hover .u4{
-	display:block;
-	background: rgba(255, 255, 255, .5);
-}
-
-a:hover .uncharted4{
-	display:block;
-	background: rgba(255, 255, 255, .5);
-}
-
-.wordplaydiv{
-	position:relative;
-	background-color: #EBEBEB !important;
-}
-
-.wordplay{ 
-	position:absolute; 
-	top:50%; 
-	left:50%; 
-	width:100%; 
-	display:none; 
-	z-index:10;
-	font-color: red;
-	font-size: 40px;
-}
-
-a:hover .wordplay{
-	display:block;
-	background: rgba(255, 255, 255, .5);
-}
-
-a:hover .wordplaydiv{
-	display:block;
-	background: rgba(255, 255, 255, .5);
-}
-			
