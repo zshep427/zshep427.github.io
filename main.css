@@ -31,3 +31,17 @@ nav li {
 	background-color: #EBEBEB;
 	padding: 0 90px;
 }
+
+.uncharted:hover:before{
+			background: rgba(244,54,60,.5);
+			content: 'blah blah blah';
+			display: block;
+			height: 100%;
+		}
+
+.uncharted{
+	background: url(http://images.techtimes.com/data/images/full/236964/uncharted-4-a-thiefs-end.jpg) no-repeat;
+	background-size: cover;
+	height: 400px;
+	}			
+			
