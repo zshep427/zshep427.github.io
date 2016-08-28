@@ -49,7 +49,8 @@ body {
 	display: block;
 	height: 100%;
 
-	position: absolute;
+	align-content: center;
+	border-top: 10px;
     left: 0;
     right: 0;
     top: 50%;
@@ -57,32 +58,11 @@ body {
     text-align: center;
 }
 
-.h-center {
-    text-align: center;
-}
 
-.v-center span {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 50%;
-    transform: translate(0, -50%);
+ul
+{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
 }
-
-.uncharted4Text{ 
-	position:absolute; 
-	top:50%; 
-	left:50%; 
-	width:100%; 
-	display:none; 
-	z-index:10;
-	
-}
-
-a:hover .uncharted4Text{
-	display:block;
-	font-color: red;
-	font-size: 40px;
-}
-
 
