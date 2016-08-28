@@ -70,12 +70,12 @@ body {
 	height: 400px;
 	}			
 
-div.container{
+.uncharted4{
 	position:relative;
-	background: rgba(255, 255, 255, .5);
+	background-color: #EBEBEB !important;
 }
 
-div.u4{ 
+.u4{ 
 	position:absolute; 
 	top:50%; 
 	left:50%; 
@@ -86,12 +86,22 @@ div.u4{
 	font-size: 40px;
 }
 
-a:hover div.u4{
+a:hover .u4{
 	display:block;
 	background: rgba(255, 255, 255, .5);
 }
 
-div.wordplay{ 
+a:hover .uncharted4{
+	display:block;
+	background: rgba(255, 255, 255, .5);
+}
+
+.wordplaydiv{
+	position:relative;
+	background-color: #EBEBEB !important;
+}
+
+.wordplay{ 
 	position:absolute; 
 	top:50%; 
 	left:50%; 
@@ -102,7 +112,12 @@ div.wordplay{
 	font-size: 40px;
 }
 
-a:hover div.wordplay{
+a:hover .wordplay{
+	display:block;
+	background: rgba(255, 255, 255, .5);
+}
+
+a:hover .wordplaydiv{
 	display:block;
 	background: rgba(255, 255, 255, .5);
 }
