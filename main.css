@@ -86,10 +86,9 @@ body {
 	font-variant: small-caps;
 }
 
-.mainColor.aboutMessage{
+.aboutMessage{
 	text-align: left;
 	font: "Trebuchet MS", Helvetica, sans-serif;
-
 }
 
 .about_photo{
