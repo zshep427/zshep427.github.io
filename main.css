@@ -36,6 +36,10 @@ body {
 	padding: 0 90px;
 }
 
+.mainColor.jumbotron{
+	background-color: #EBEBEB;
+}
+
 
 .uncharted{
 	background: url(http://images.techtimes.com/data/images/full/236964/uncharted-4-a-thiefs-end.jpg) no-repeat;
@@ -48,6 +52,23 @@ body {
 	content:"Uncharted 4: A Thief's End";
 	display: block;
 	line-height: 400px;
+	font-size: 30px;
+	font-variant: small-caps;
+}
+
+.wordplay{
+	background: url(http://www.warm-glass.co.uk/images/products/block-letters-decal-XqUA.jpg) no-repeat;
+	background-size: cover;
+	height: 400px;
+	}	
+
+.wordplay:hover:before{
+	background: rgba(255,255,255,.5);
+	content:"Wordplay";
+	display: block;
+	line-height: 400px;
+	font-size: 30px;
+	font-variant: small-caps;
 }
 
 
@@ -57,4 +78,6 @@ li
     padding:0px;
     margin:0px;
 }
+
+
 
