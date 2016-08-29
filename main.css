@@ -75,6 +75,10 @@ body {
 	font-variant: small-caps;
 }
 
+.noLinkLine{
+	text-decoration: none;
+}
+
 .wordplay{
 	background: url(http://www.warm-glass.co.uk/images/products/block-letters-decal-XqUA.jpg) no-repeat;
 	background-size: cover;
