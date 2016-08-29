@@ -75,7 +75,7 @@ body {
 	font-variant: small-caps;
 }
 
-.mainColor .noLinkLine{
+.mainColor a.noLinkLine{
 	text-decoration: none;
 }
 
