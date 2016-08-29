@@ -27,7 +27,7 @@ nav li {
  	padding: 0 10px;
  	padding-left: 40px;
  	float: left;
- 	margin-top: 30px; 	
+ 	margin-top: 35px; 	
  	background-color: #646464 !important;
 }
 
@@ -82,6 +82,10 @@ li
 }
 
 .mainColor .jumbotron{
+	background-color: #EBEBEB !important;
+}
+
+.mainColor.footer {
 	background-color: #EBEBEB !important;
 }
 
