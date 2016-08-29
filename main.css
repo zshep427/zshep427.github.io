@@ -67,7 +67,8 @@ li
 .secondColor nav li a{
 	background-color: #646464 !important;
 	color: white;
-	padding-bottom: 20px;	
+	margin-bottom: 20px;
+	text-decoration: none;	
 }
 
 .mainColor nav li a{
