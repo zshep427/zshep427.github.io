@@ -56,13 +56,18 @@ li
 	border-bottom-color: black;
 }
 
+.secondColor {
+	background-color: 646464 !important;
+	color: white;
+}
+
 .mainColor h1{
 	color: black;
-	padding-bottom: 10px;
 }
 
 .mainColor nav li a{
 	color: black;
+	padding-bottom: 10px;
 }
 
 
