@@ -35,6 +35,21 @@ body {
 	background-color: #EBEBEB !important;
 }
 
+/*this is for the icons at the bottoms*/
+li
+{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+}
+
+/*this is for the top section*/
+.mainColor.container {
+	background-color: 646464 !important;
+	color: white;
+} 
+
+/*this is for the line divider*/
 .pageDivider {
 	border-bottom-width: 2px;
 	border-bottom-style: solid;
@@ -43,6 +58,7 @@ body {
 
 .mainColor h1{
 	color: black;
+	padding-bottom: 10px;
 }
 
 .mainColor nav li a{
@@ -105,15 +121,6 @@ body {
     background-size: cover;
     height: 300px;
 }
-
-
-li
-{
-    list-style-type:none;
-    padding:0px;
-    margin:0px;
-}
-
 
 .uncharted_auction1{
     background: url(https://3.bp.blogspot.com/-L4KGzEedlsE/VyqHOyBIOMI/AAAAAAAAk1c/rdpSVjZ1KSEZkrUz-dF0UP6FlSibUliiwCKgB/s1600/Italy_03.bmp);
