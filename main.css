@@ -8,9 +8,7 @@ body {
 h1 {
 	font-size: 32px;
 	font-variant: small-caps;
-	font-color: rgb(135,0,0);
  	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	color: rgb(46,105,163);
 	float: right;
 	margin-right: 50px;
 	background-color: #EBEBEB;
@@ -23,7 +21,7 @@ ul {
 nav li {
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	font-variant: small-caps;
-	font-color: rgb(135,0,0);
+	
   	display: inline;
  	margin: 0;
  	padding: 0 10px;
@@ -37,12 +35,18 @@ body {
 	background-color: #EBEBEB !important;
 }
 
+.pageDivider {
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+
 .mainColor h1{
-	color: rgb(85,0,0);
+	
 }
 
 .mainColor nav li a{
-	color: rgb(85,0,0);
+	
 }
 
 
@@ -94,7 +98,7 @@ body {
 .about_photo{
     background: url(Photos/aboutPhoto.jpg);
     background-size: cover;
-    height: 200px;
+    height: 300px;
 }
 
 
@@ -106,4 +110,9 @@ li
 }
 
 
+.uncharted_auction1{
+    background: url(https://3.bp.blogspot.com/-L4KGzEedlsE/VyqHOyBIOMI/AAAAAAAAk1c/rdpSVjZ1KSEZkrUz-dF0UP6FlSibUliiwCKgB/s1600/Italy_03.bmp);
+    background-size: cover;
+    height: 300px;
+}
 
