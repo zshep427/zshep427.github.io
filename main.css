@@ -11,7 +11,7 @@ h1 {
  	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	float: right;
 	margin-right: 50px;
-	background-color: #EBEBEB;
+	background-color: #646464 !important;
 }
 
 ul {
@@ -28,11 +28,11 @@ nav li {
  	padding-left: 40px;
  	float: left;
  	margin-top: 50px; 	
- 	background-color: #EBEBEB !important;
+ 	background-color: #646464 !important;
 }
 
 body {
-	background-color: #EBEBEB !important;
+	/*background-color: #EBEBEB !important;*/
 }
 
 /*this is for the icons at the bottoms*/
@@ -43,12 +43,6 @@ li
     margin:0px;
 }
 
-/*this is for the top section*/
-.mainColor.container {
-	background-color: 646464 !important;
-	color: white;
-} 
-
 /*this is for the line divider*/
 .pageDivider {
 	border-bottom-width: 2px;
@@ -57,12 +51,23 @@ li
 }
 
 .secondColor {
-	background-color: 646464 !important;
+	background-color: #646464 !important;
 	color: white;
 }
 
 .mainColor h1{
 	color: black;
+}
+
+.secondColor h1{
+	color:white;
+	text-decoration: none;
+}
+
+.secondColor nav li a{
+	background-color: #646464 !important;
+	color: white;
+	padding-bottom: 20px;	
 }
 
 .mainColor nav li a{
