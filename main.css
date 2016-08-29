@@ -27,7 +27,7 @@ nav li {
  	padding: 0 10px;
  	padding-left: 40px;
  	float: left;
- 	margin-top: 50px; 	
+ 	margin-top: 30px; 	
  	background-color: #646464 !important;
 }
 
@@ -67,7 +67,6 @@ li
 .secondColor nav li a{
 	background-color: #646464 !important;
 	color: white;
-	margin-bottom: 20px;
 	text-decoration: none;	
 }
 
