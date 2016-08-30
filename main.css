@@ -43,6 +43,10 @@ li
     margin:0px;
 }
 
+.footer {
+	height: 100%;
+}
+
 /*this is for the line divider*/
 .pageDivider {
 	border-bottom-width: 2px;
