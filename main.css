@@ -141,9 +141,18 @@ li
     height: 300px;
 }
 
+
+/*Uncharted 4 Page*/
 .uncharted_auction1{
     background: url(https://3.bp.blogspot.com/-L4KGzEedlsE/VyqHOyBIOMI/AAAAAAAAk1c/rdpSVjZ1KSEZkrUz-dF0UP6FlSibUliiwCKgB/s1600/Italy_03.bmp);
     background-size: cover;
     height: 300px;
 }
 
+.unchartedTitle{
+	text-align: center;
+	font: "Trebuchet MS", Helvetica, sans-serif;
+	color: black;
+	font-variant: small-caps;
+
+}
