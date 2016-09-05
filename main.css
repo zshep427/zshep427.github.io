@@ -154,12 +154,12 @@ li
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: black;
 	font-variant: small-caps;
-	font-size: 20px;
+	font-size: 20px !important;
 }
 
 .jumbotron .unchartedAbout{
 	text-align: left;
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: black;
-	font-size: 10px;
+	font-size: 10px !important;
 }
