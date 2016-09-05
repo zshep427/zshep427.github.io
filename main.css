@@ -146,8 +146,8 @@ li
 .uncharted_auction1{
     background: url(https://3.bp.blogspot.com/-L4KGzEedlsE/VyqHOyBIOMI/AAAAAAAAk1c/rdpSVjZ1KSEZkrUz-dF0UP6FlSibUliiwCKgB/s1600/Italy_03.bmp);
     background-size: cover;
-    height: 400px;
-    width: 600px;
+    height: 400px !important;
+    width: 600px !important;
 }
 
 .jumbotron .unchartedTitle {
@@ -155,12 +155,12 @@ li
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: black;
 	font-variant: small-caps;
-	font-size: 18px;
+	font-size: 15px;
 }
 
 .jumbotron .unchartedAbout p{
 	text-align: left;
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: black;
-	font-size: 15px;
+	font-size: 10px;
 }
