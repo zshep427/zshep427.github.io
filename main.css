@@ -149,7 +149,7 @@ li
     height: 300px;
 }
 
-.jumbotron .unchartedTitle{
+.jumbotron .unchartedTitle {
 	text-align: center;
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: black;
@@ -157,7 +157,7 @@ li
 	font-size: 20px !important;
 }
 
-.jumbotron .unchartedAbout{
+.jumbotron .unchartedAbout .p{
 	text-align: left;
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: black;
