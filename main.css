@@ -154,5 +154,11 @@ li
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: black;
 	font-variant: small-caps;
+	font-size: 20px;
+}
 
+.unchartedAbout{
+	text-align: left;
+	font: "Trebuchet MS", Helvetica, sans-serif;
+	color: black;
 }
