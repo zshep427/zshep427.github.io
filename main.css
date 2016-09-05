@@ -147,8 +147,8 @@ li
     background: url(https://3.bp.blogspot.com/-L4KGzEedlsE/VyqHOyBIOMI/AAAAAAAAk1c/rdpSVjZ1KSEZkrUz-dF0UP6FlSibUliiwCKgB/s1600/Italy_03.bmp);
     background-size: cover;
     height: 100% !important;
-   /* width: 600px !important;
-*/}
+    width: 100% !important;
+}
 
 .jumbotron .unchartedTitle {
 	text-align: center;
