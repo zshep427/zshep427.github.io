@@ -115,7 +115,8 @@ li
 }
 
 .wordplay{
-	background: url(http://www.warm-glass.co.uk/images/products/block-letters-decal-XqUA.jpg) no-repeat;
+	background: url(Photos/wordPlaySite.jpg) 
+	no-repeat;
 	background-size: cover;
 	height: 400px;
 	}	
@@ -127,6 +128,12 @@ li
 	line-height: 400px;
 	font-size: 30px;
 	font-variant: small-caps;
+}
+
+.wordplay_photo{
+    background: url(Photos/aboutPhoto.jpg);
+    background-size: cover;
+    height: 300px;
 }
 
 .aboutMessage{
@@ -146,8 +153,8 @@ li
 .jumbotron .uncharted_auction1{
     background: url(https://3.bp.blogspot.com/-L4KGzEedlsE/VyqHOyBIOMI/AAAAAAAAk1c/rdpSVjZ1KSEZkrUz-dF0UP6FlSibUliiwCKgB/s1600/Italy_03.bmp);
     background-size: cover;
-    height: 300px !important;
-    width: 400px !important;
+    height: 300px ;
+    width: 400px ;
 }
 
 .jumbotron .unchartedTitle {
