@@ -136,6 +136,13 @@ li
     height: 300px;
 }
 
+.jumbotron .wordPlay_logo{
+    background: url(Photos/wordPlayLogo.jpg);
+    background-size: cover;
+    height: 300px ;
+    width: 400px ;
+}
+
 .aboutMessage{
 	text-align: left;
 	font: "Trebuchet MS", Helvetica, sans-serif;
@@ -152,6 +159,13 @@ li
 /*Uncharted 4 Page*/
 .jumbotron .uncharted_auction1{
     background: url(https://3.bp.blogspot.com/-L4KGzEedlsE/VyqHOyBIOMI/AAAAAAAAk1c/rdpSVjZ1KSEZkrUz-dF0UP6FlSibUliiwCKgB/s1600/Italy_03.bmp);
+    background-size: cover;
+    height: 300px ;
+    width: 400px ;
+}
+
+.jumbotron .uncharted_logo{
+    background: url(Photos/uncharted4LogoTransparent.jpg);
     background-size: cover;
     height: 300px ;
     width: 400px ;
