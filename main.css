@@ -139,6 +139,7 @@ li
 .jumbotron .wordPlay_logo{
     background: url(Photos/wordPlayLogo.png);
     background-size: cover;
+    align-content: center;
     height: 300px ;
     width: 400px ;
 }
@@ -165,8 +166,9 @@ li
 }
 
 .jumbotron .uncharted_logo{
-    background: url(Photos/uncharted4LogoTransparent.jpg);
+    background: url(Photos/uncharted4LogoTransparent.png);
     background-size: cover;
+    align-content: center;
     height: 300px ;
     width: 400px ;
 }
