@@ -140,8 +140,8 @@ li
     background: url(Photos/wordPlayLogo.png);
     background-size: cover;
     align-content: center;
-    height: 300px ;
-    width: 400px ;
+    height: 150px ;
+    width: 200px ;
 }
 
 .aboutMessage{
@@ -169,8 +169,8 @@ li
     background: url(Photos/uncharted4LogoTransparent.png);
     background-size: cover;
     align-content: center;
-    height: 300px ;
-    width: 400px ;
+    height: 150px ;
+    width: 200px ;
 }
 
 .jumbotron .unchartedTitle {
