@@ -39,66 +39,51 @@
 			  			</p>
 
 			  			<p>
-			  			Design, art, and engineering were all done by me. The game was made using Unity and scripted entirely in C#. 
+			  			Design, art, and engineering were all done by me. Wordplay was made using Unity and scripted entirely in C#. 
 			  			</p>
 
 			  			<p>
-			  			You can download and try out Wordplay by clicking here!  
+			  			You can download and try out Wordplay by clicking <a href="/Wordplay" here>  
 			  			</p>
 			  		</div>	    
 			    </div>
 
-			   <div class="col-sm-6 wordplay_photo">
-		 			
-		  		</div>
-		  	</section>
-
-		  	<div class="clearfix"></div>
-
-		  	<section class="container">
 				<div class="col-sm-6">
-					<div class="unchartedTitle">
-						Design Work  
-		  			</div>
+				  <img class="mySlides" src="/Photos/baseImage.png" style="width:100%">
+				  <img class="mySlides" src="/Photos/selectWordPerp.png" style="width:100%">
+				  <img class="mySlides" src="/Photos/imageDrop.png" style="width:100%">
+				  <img class="mySlides" src="/Photos/imageMin.png" style="width:100%">
 
-					<div class="unchartedAbout">
-		  				<p>
-			  			I provided support for the Design team on Uncharted 4. I worked with designers to implement AI Navigation systems across both U4 SP and MP. After implementing the systems, I handled all related bug fixes for the duration of development ensuring the levels met the quality Naughty Dog is known for. I also worked with programmers to fix bugs related to the Hide Characters and Orbit Camera features of U4's Photo Mode. 
-			  			</p>
+				  <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+				  <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+				</div>
 
-			  			<p>
-			  			I provided support for the Design team to help complete Uncharted 4. I worked with Designers to implement AI Navigation systems across both U4 SP and MP. After implementing the systems, I handled all related bug fixes for the duration of development ensuring the levels met the quality Naughty Dog is known for. I also worked with programmers to fix bugs related to the Hide Characters and Orbit Camera features of U4's Photo Mode. 
-			  			</p>
-			  		</div>	    
-			    </div>
+				<script>
+				var slideIndex = 1;
+				showDivs(slideIndex);
 
-			    <div class="col-sm-6">
-					<div class="col-sm-6 uncharted_auction1">
-					</div>   	
-				</div>	
-		  	</section>
+				function plusDivs(n) {
+				  showDivs(slideIndex += n);
+				}
 
-		  	<div class="clearfix"></div>
+				function showDivs(n) {
+				  var i;
+				  var x = document.getElementsByClassName("mySlides");
+				  if (n > x.length) {slideIndex = 1}
+				  if (n < 1) {slideIndex = x.length}
+				  for (i = 0; i < x.length; i++) {
+				     x[i].style.display = "none";
+				  }
+				  x[slideIndex-1].style.display = "block";
+				}
+				</script>
 
-		  	<section class="container">
-		  	
-	  		<div class="col-sm-6">
-				<div class="col-sm-6 uncharted_auction1">
-				</div>   	
-			</div>	 
-
-			<div class="col-sm-6">
-				<div class="unchartedTitle">
-					Quality Assurance Work  
+				<!--
+			   <div class="col-sm-6 wordplay_photo">		 			
 		  		</div>
-				<div class="unchartedAbout">
-	  				<p>
-		  			I served as Test Lead for three of Uncharted 4's story chapters, <i>Hector Alcazar</i>, <i>Once a Thief...</i>, and <i>Light's Out</i>. I coordinated between QA and Programming in order to maintain game stability throughout the duration of the project. Toward the end of the project, I worked with Technical Art Directors and Programmers to ensure necessary level visibility rebuilds occurred and were integrated into the final disc. 
-		  			</p>
-			  	</div>
-			 </div>  
+		  		-->
 		  	</section>
-
+		  	<div class="clearfix"></div> 
 
 		</section>
 
