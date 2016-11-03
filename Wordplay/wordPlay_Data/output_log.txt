@@ -18,14 +18,7 @@ Platform assembly: C:\Users\Zach\Documents\Website\Wordplay\wordPlay_Data\Manage
 Loading C:\Users\Zach\Documents\Website\Wordplay\wordPlay_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Zach\Documents\Website\Wordplay\wordPlay_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Zach\Documents\Website\Wordplay\wordPlay_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.117 seconds
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+- Completed reload, in  0.442 seconds
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-Platform assembly: C:\Users\Zach\Documents\Website\Wordplay\wordPlay_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Zach\Documents\Website\Wordplay\wordPlay_Data\Managed\System.dll (this message is harmless)
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1715)
-
