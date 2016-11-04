@@ -139,9 +139,10 @@ li
 .jumbotron .wordPlay_logo{
     background: url(Photos/wordPlayLogo.png);
     background-size: cover;
-    align-content: center;
+    display: block;
+    margin: auto;
     height: 150px ;
-    width: 200px ;
+    width: 400px ;
 }
 
 .aboutMessage{
@@ -168,9 +169,10 @@ li
 .jumbotron .uncharted_logo{
     background: url(Photos/uncharted4LogoTransparent.png);
     background-size: cover;
-    align-content: center;
-    height: 150px ;
-    width: 200px ;
+    display: block;
+    margin: auto;
+    height: 200px ;
+    width: 400px ;
 }
 
 .jumbotron .unchartedTitle {
