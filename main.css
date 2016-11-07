@@ -160,7 +160,7 @@ li
 
 .wordplay_slide p{
 	font: "Trebuchet MS", Helvetica, sans-serif;
-	color: black;
+	color: black !important;
 	font-size: 15px !important;
 	text-align: center; 
 }
