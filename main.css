@@ -44,7 +44,7 @@ nav li {
 }
 
 body {
-	/*background-color: #EBEBEB !important;*/
+	background-color: #EBEBEB !important;
 }
 
 /*this is for the icons at the bottoms*/
@@ -113,12 +113,28 @@ li
 	background-color: #EBEBEB;
 }
 
-
-.uncharted{
-	background: url(http://images.techtimes.com/data/images/full/236964/uncharted-4-a-thiefs-end.jpg) no-repeat;
-	background-size: cover;
+.work-parent{
 	height: 400px;
+	width: 550px;
+	overflow: hidden;
+}
+.uncharted{
+	background-image: url(http://images.techtimes.com/data/images/full/236964/uncharted-4-a-thiefs-end.jpg);
+	background-size: cover;
+	  background-position: center;
+	  width: 100%;
+  height: 100%;
+  transition: all .5s;
+
 	}	
+.work-parent:hover .uncharted,
+.work-parent:focus .uncharted,
+.work-parent:hover .wordplay,
+.work-parent:focus .wordplay
+  {
+  transform: scale(1.2);
+}
+
 
 .uncharted:hover:before{
 	background: rgba(255,255,255,.5);
@@ -135,10 +151,11 @@ li
 }
 
 .wordplay{
-	background: url(Photos/wordPlaySite.png) 
-	no-repeat;
+	background-image: url(Photos/wordPlaySite.png);
 	background-size: cover;
-	height: 400px;
+	  width: 100%;
+	  height: 100%;
+	  transition: all .5s;
 }	
 
 .wordplay:hover:before{
@@ -227,3 +244,46 @@ li
 	color: black;
 	font-size: 12px;
 }
+
+#twitter{
+  display: inline-block;
+  background:  url(Photos/twitter.png) 0 0 no-repeat ;
+  height: 50px;
+  width: 50px;
+  background-size: cover;
+}
+#twitter:hover, #mail:hover, #linkedin:hover{
+  opacity: .5;
+  text-decoration: none;
+}
+#mail{
+  display: inline-block;
+background: url(Photos/email.png) 0 0 no-repeat ;
+  height: 50px;
+  width: 50px;
+    background-size: cover;
+
+}
+
+#linkedin{
+  display: inline-block;
+  background: url(Photos/linkedin.png) 0 0 no-repeat ;
+  height: 50px;
+  width: 50px;
+    background-size: cover;
+
+}
+.social{
+  display: inline; 
+  margin: 0px 10px;
+}
+.social-icons{
+  margin: 0 auto;
+}
+.social a{
+  text-decoration: none;
+}
+.social a:hover{
+  text-decoration: none;
+}
+
