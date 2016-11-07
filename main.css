@@ -158,7 +158,7 @@ li
     width: 300px ;
 }
 
-.wordplay_slide p{
+.jumbotron .wordplay_slide p{
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: white !important;
 	font-size: 15px !important;
@@ -166,12 +166,13 @@ li
 	background: rgba(0,0,0,0.5);
 }
 
-.wordplay_play p{
+.jumbotron .wordplay_play p{
 	font: "Trebuchet MS", Helvetica, sans-serif;
 	color: black !important;
 	font-size: 100px !important;
 	text-align: center; 
 }
+
 
 .aboutMessage{
 	text-align: left;
