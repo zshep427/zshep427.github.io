@@ -92,21 +92,11 @@ li
 	background-color: #646464 !important;
 	color: white;
 	text-decoration: none;	
-	position: relative;
 }
-.secondColor nav li a:hover:after {
-  width: 100%;
+.secondColor nav li a:hover{
+	text-decoration: underline;	
 }
 
-.secondColor nav li a:after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0%;
-  border-bottom: 1px solid white;
-  transition: 0.4s;
-}
 
 .mainColor nav li a{
 	color: black;
