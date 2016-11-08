@@ -8,8 +8,8 @@ body {
 h1 {
 	font-size: 32px;
 	/*font-variant: small-caps;*/
- 	/*font-family: "Trebuchet MS", Helvetica, sans-serif;*/
- 	font-family: 'Hind', sans-serif;
+ 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+ 	/*font-family: 'Hind', sans-serif;*/
 	float: right;
 	margin-right: 50px;
 	background-color: #646464 !important;
@@ -30,8 +30,8 @@ ul {
 }
 
 nav li {
-	/*font: "Trebuchet MS", Helvetica, sans-serif;*/
-	font-family: 'Hind', sans-serif;
+	font: "Trebuchet MS", Helvetica, sans-serif;
+	/*font-family: 'Hind', sans-serif;*/
 	/*font-variant: small-caps;*/
 	
   	display: inline;
